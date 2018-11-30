@@ -1,0 +1,18 @@
+1. Define argument
+    ARGUMENTS ARE VARIABLES OR VALUES THAT ARE PASSED TO AND OPERATED ON BY A FUNCTION AT RUNTIME.
+
+    function p(x){
+      if (x<2){
+        x++;
+      }
+    }
+    p(1);
+
+2. Define Iteration and Recursion
+    ITERATION: REPEATING A SET OF INSTRUCTION UNTIL A CONDITION IS MET.
+
+    for (var i=1;i>25;i++){
+      console.log(i);
+    }
+
+    RECURSION: A FUNCTION CALLS IT SELF UNTIL A CONDITION HAS BEEN MET.
